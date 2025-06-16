@@ -78,12 +78,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here if available, showing dashboard, charts, etc.)*
-
----
-
 ## 🧑‍💻 Author
 
 - [Rohit Rajesh Vadnere](https://github.com/rohit_vadnere-2525)
